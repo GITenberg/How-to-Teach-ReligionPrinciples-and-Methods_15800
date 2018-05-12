@@ -1,0 +1,30 @@
+_repo: How-to-Teach-ReligionPrinciples-and-Methods_15800
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Betts, George Herbert
+    birthdate: 1868
+    deathdate: 1934
+    gutenberg_agent_id: '6298'
+    url: http://www.gutenberg.org/2009/agents/6298
+description: ''
+gutenberg_bookshelf: Christianity
+gutenberg_issued: '2005-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15800'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Religious education'
+- !lcsh 'Religion -- Study and teaching'
+- !lcc 'BV'
+title: 'How to Teach Religion
+
+  Principles and Methods'
+url: http://www.gutenberg.org/ebooks/15800
